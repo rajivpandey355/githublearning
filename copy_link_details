@@ -1,0 +1,105 @@
+<svg viewBox="0 0 24 24" width="24px" height="24px" x="0" y="0" preserveAspectRatio="xMinYMin meet" class="artdeco-icon" 
+focusable="false"><path d="M2,10H6v4H2V10Zm8,4h4V10H10v4Zm8-4v4h4V10H18Z" class="large-icon" style="fill: currentColor">
+</path></svg>
+
+https://www.linkedin.com/sales/people/ACoAAAAAXvMBs9Aifc9Lt3HoThJXHWVj3s6Et48,name,xcUQ
+
+<artdeco-dropdown-trigger aria-expanded="false" role="button" placement="bottom" id="ember81" 
+class="button-round-tertiary-medium-muted block ml1 ember-view" tabindex="0">                    
+<li-icon type="ellipsis-horizontal-icon" role="img" aria-label="More actions">
+<svg viewBox="0 0 24 24" width="24px" height="24px" x="0" y="0" preserveAspectRatio="xMinYMin meet" 
+class="artdeco-icon" focusable="false"><path d="M2,10H6v4H2V10Zm8,4h4V10H10v4Zm8-4v4h4V10H18Z" 
+class="large-icon" style="fill: currentColor"></path></svg></li-icon>
+
+<!----></artdeco-dropdown-trigger>
+
+
+<artdeco-dropdown-trigger aria-expanded="false" role="button" placement="bottom" withicon="" id="ember34" 
+class="advanced-search-dropdown__trigger color-blue9 Sans-14px-black-90%-bold ember-view" tabindex="0">      Advanced search
+
+  <li-icon aria-hidden="true" type="caret-filled-down-icon" size="small"><svg viewBox="0 0 24 24" width="24px" height="24px" 
+  x="0" y="0" preserveAspectRatio="xMinYMin meet" class="artdeco-icon" 
+  focusable="false">
+  <path d="M8.8,10.66L14,5.12A0.07,0.07,0,0,0,13.93,5H2.07A0.07,0.07,0,0,0,2,5.12L7.2,10.66A1.1,1.1,0,0,0,8.8,10.66Z" 
+  class="small-icon" style="fill-opacity: 1"></path></svg></li-icon>
+</artdeco-dropdown-trigger>
+
+
+<button aria-label="View Patrick Toland’s profile in Sales Navigator" id="ember61" class="pv-s-profile-actions pv-s-profile-actions--view-profile-in-sales-navigator ml2 artdeco-button artdeco-button--2 artdeco-button--secondary ember-view" type="button"><!---->
+<span class="artdeco-button__text">
+    View in Sales Navigator
+</span></button>
+
+
+
+
+<button aria-label="View Patrick Toland’s profile in Sales Navigator" 
+id="ember61" 
+class="pv-s-profile-actions pv-s-profile-actions--view-profile-in-sales-navigator ml2 artdeco-button artdeco-button--2 artdeco-button--secondary ember-view" 
+type="button"><!---->
+<span class="artdeco-button__text">
+    View in Sales Navigator
+</span></button>
+
+
+
+
+
+
+
+
+<artdeco-dropdown-item data-control-name="copy_linkedin" data-dropdown="" id="ember89" 
+class="inverse-link-on-a-light-background ember-view" tabindex="0"><!---->
+                            Copy LinkedIn.com URL
+</artdeco-dropdown-item>
+
+
+
+
+
+
+
+
+
+
+<form id="nav-search-form" class="nav-search-form inverse-form" name="globalNavSearch" 
+action="https://www.linkedin.com/sales/search?trk=nav_search" 
+role="search" data-lead-builder-clean-up="true" data-open-link-in-results="true" 
+data-recent-searches-enabled="true" data-exclude-leads-enabled="true" data-states-typeahead-enabled="true" 
+data-galene-search-enabled="true" data-admin-sync-enabled="true" data-company-pivot-page-enabled="true" 
+data-search-v3-enabled="true">
+          <button name="cancel" class="nav-search-cancel" aria-label="Cancel search" data-ember-action="" 
+		  data-ember-action-26="26">
+            <li-icon aria-hidden="true" type="arrow-left-icon">
+<svg viewBox="0 0 24 24" width="24px" height="24px" x="0" y="0" preserveAspectRatio="xMinYMin meet" 
+class="artdeco-icon" focusable="false">
+<path d="M2,12a1,1,0,0,1,.29-0.71L10.59,3l1.29,1.29L5.17,11H21v2H5.17l6.71,6.71L10.59,21,2.29,12.71A1,1,0,0,1,2,12Z" 
+class="large-icon" style="fill: currentColor"></path></svg></li-icon>
+            Cancel
+          </button>
+          <fieldset>
+            <label for="nav-search-input" class="a11y-text">
+              Search by keywords or boolean
+            </label>
+            <li-icon aria-hidden="true" type="search-icon" class="search-icon"><svg viewBox="0 0 24 24" width="24px" height="24px" x="0" y="0" preserveAspectRatio="xMinYMin meet" class="artdeco-icon" focusable="false"><path d="M21,19.67l-5.44-5.44a7,7,0,1,0-1.33,1.33L19.67,21ZM10,15.13A5.13,5.13,0,1,1,15.13,10,5.13,5.13,0,0,1,10,15.13Z" class="large-icon" style="fill: currentColor"></path></svg></li-icon>
+<div id="ember27" class="nav-search-typeahead-component ember-view"><!----><div id="ember28" class="nav-search-typeahead-component__typeahead nav-search-typeahead nav-search-typeahead--rounded ember-view"><div class="ui-dope-typeahead-input-container nav-search-typeahead__visible">
+  <input autocomplete="off" class="nav-search-typeahead__input" id="nav-search-input" name="keywords" placeholder="Search by keywords or boolean" spellcheck="true" type="text">
+</div>
+
+<!----></div></div>            <input name="trk" id="ember29" class="ember-text-field ember-view" type="hidden" value="lss-nav-typeahead">
+            <input name="updateHistory" id="ember30" class="ember-text-field ember-view" type="hidden" value="false">
+          </fieldset>
+          <button name="search" class="nav-search-submit icon-search" aria-label="Search" type="submit" data-ember-action="" data-ember-action-31="31">
+            <span>
+              Search
+            </span>
+          </button>
+        </form>
+
+
+
+
+
+
+
+
