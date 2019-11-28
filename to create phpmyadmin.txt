@@ -1,0 +1,11 @@
+CREATE USER 'pmauser'@'%' IDENTIFIED BY 'password_here';
+Now we will grant superuser privilege to our new user.
+
+GRANT ALL PRIVILEGES ON *.* TO 'pmauser'@'%' WITH GRANT OPTION;
+Then go to config.inc.php ( in ubuntu, /etc/phpmyadmin/config.inc.php )
+
+/* User for advanced features */
+
+$cfg['Servers'][$i]['controluser'] = 'pmauser'; 
+$cfg['Servers'][$i]['controlpass'] = 'password_here';
+https://stackoverflow.com/questions/36864206/sqlstatehy000-1698-access-denied-for-user-rootlocalhost
